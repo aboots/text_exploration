@@ -1,0 +1,3 @@
+# text_exploration
+
+This project presents a comprehensive exploration and analysis of text from two distinct websites: Zoomg, a movie review site, and Skysports, a sports news site. The project involves crawling the websites to gather data, followed by preprocessing and exploration of the text to extract meaningful insights about the writers or the content posted on these websites. Natural Language Processing (NLP) methods are extensively used throughout the project to facilitate the analysis. The insights derived from this project can provide valuable understanding of the content strategy and writing styles employed by these websites.
